@@ -144,5 +144,9 @@ Key visuals included:
 
 ---
 
-⭐ If you like this project, consider giving the repository a **star**!
+📬 Contact
+
+Manoj Kumar Toppo
+GitHub: manoj-toppo
+Email: manoj5kumar805@gmail.com
 
